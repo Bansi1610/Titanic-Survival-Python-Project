@@ -1,1 +1,2 @@
 # Titanic-Survival-Python-Project
+This project predicts whether a passenger survived the Titanic disaster using machine learning. The dataset is preprocessed, visualized, and used to train classification models to identify key survival factors such as gender, age, and passenger class. The workflow includes data cleaning, EDA, feature engineering, model training, and evaluation using accuracy and confusion matrix.
